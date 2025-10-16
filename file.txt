@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 informacja z plikugit
 przerwa o 12:30
+=======
+informacja z pliku
+koniec przerwy o 13:30
+>>>>>>> 3035ae6c9f40e11b3da2ddea0f9f94f6f49f727a
